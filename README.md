@@ -1,6 +1,9 @@
 # Hi there, I am [ctimmons25][prof] :wave:
 
 
+
+
+
 ### About Me
 
 
@@ -25,8 +28,13 @@ Joke :laughing:
 <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=dracula" alt="Jokes Card" />
 
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/RtdRhc7TxBxB0YAsK6/giphy.gif" width="200"/>
+</div>
 
+
+
+<img src="https://komarev.com/ghpvc/?username=your-github-ctimmons25&style=flat-square&color=blue" alt=""/>
 
 
 
